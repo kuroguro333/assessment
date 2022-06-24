@@ -1,0 +1,22 @@
+body {
+  background-color: hsl(54, 97%, 47%);
+  color:#fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button:hover{
+  background-color: chartreuse;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #2dc784;
+  color: #fdffff;
+  border-style: none;
+}
+
+input {
+  height: 20px;
+}
